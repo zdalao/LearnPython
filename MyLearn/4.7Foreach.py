@@ -19,7 +19,7 @@ squares = [value ** 2 for value in range(1, 11)]
 print(squares)
 
 # practice
-
+# 一行代码完成好多事情
 print(sum([value ** 3 for value in range(3, 30, 3)]))
 
 # 切片 左闭右开
