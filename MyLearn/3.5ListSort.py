@@ -27,3 +27,6 @@ tourList.sort(reverse=True)
 
 # 长度
 print(len(tourList))
+
+newTourList = tourList
+print(newTourList == tourList)
